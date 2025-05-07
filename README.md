@@ -19,7 +19,7 @@ Key technologies:
 
 ## 🌟 Features
 
-* **Multimodal input**: Ask questions via microphone or text box
+* **Multimodal input**: Ask questions 
 * **Dynamic audience adaptation**:
 
   * **Child**: Simplified explanations with friendly tone and emojis
