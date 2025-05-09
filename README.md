@@ -128,9 +128,7 @@ Please ensure code quality and update tests where applicable.
 
 ---
 
-## 📬 Contact
-
-For questions and support, open an issue or reach out to the maintainer:
+## 📬 Link to a Live Demo Vid Recorded
 
 Enjoy exploring the universe with Space QA Bot! 🌌
 
